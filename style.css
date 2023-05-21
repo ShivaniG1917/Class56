@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    background-color:orange;
+    }
+    .ibox {
+    width: 200px;
+    background-color: yellow;
+    margin-left:20px;
+    }
+    #add{
+    background-color:red;
+    }
+    #sub{
+    background-color:orange;
+    }
+    #mul{
+    background-color:limegreen;
+    }
+    #div{
+    background-color:skyblue;
+    }
